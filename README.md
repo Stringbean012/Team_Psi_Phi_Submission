@@ -4,7 +4,8 @@ Submission to the Physics Techne Symposium 2026
 Video Link: https://drive.google.com/drive/folders/1g1nJ5X5vTHOvvc1VKzYLAoThpPKDf8H_?usp=sharing
 
 How to use this code:
-First place the raw hexadecimal text files in the data folder.
+Creat an empty folder called data in Team_Psi_Phi_Submission folder.
+Place the raw hexadecimal text files in the data folder.
 
 In C#
 Run Parser.cs this will convert hexadecimal values to floating point values and save them in the parsed folder.
